@@ -1,0 +1,10 @@
+{
+  "name": "Hello",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mary Lukicheva <luckmary8@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
